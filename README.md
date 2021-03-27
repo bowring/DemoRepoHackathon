@@ -2,11 +2,11 @@
 
 Instructions:
 
-Install Git on your machine o use with command line
+Install Git on your machine to use with command line
 
 Fork this repo (see [this](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow))
 
-Clone this forked repo to your machine and then change directories into the clone: >>git clone [link to your fork of this repo]
+Clone your forked repo to your machine and then change directories into the clone: >> git clone [link to your fork of this repo]
 
 Try >> git status
 
