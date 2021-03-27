@@ -24,7 +24,9 @@ Push your local branch to your GitHub fork: >> git push origin myNewFeatureBranc
 
 Go to your fork on GitHub and make a pull request to this repo "DemoRepoHackathon"
 
-Setup a remote "upstream" link pointing to this repo "DemoRepo" (not your fork) : >> git remote add upstream https://github.com/bowring/DemoRepoHackathon.git
+Setup a remote "upstream" link pointing to this repo "DemoRepo" (not your fork) : 
+
+     >> git remote add upstream https://github.com/bowring/DemoRepoHackathon.git
 
 Switch to your main branch: >> git checkout main
 
